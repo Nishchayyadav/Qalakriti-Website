@@ -3,7 +3,7 @@ Qalakriti Website for DBMS Project
 
 Nischay : users
 Siddhant : craftsman 
-
+```
 templates/
 ├── base.html
 ├── user/
@@ -20,4 +20,5 @@ templates/
     ├── orders.html
     ├── reviews.html
     └── earnings.html
+```
 
