@@ -1,8 +1,8 @@
 # Qalakriti-Website
 Qalakriti Website for DBMS Project
 
-Nischay : users
-Siddhant : craftsman 
+#Nischay : users
+#Siddhant : craftsman 
 ```
 templates/
 ├── base.html
