@@ -1,6 +1,9 @@
 from re import DEBUG
 from flask import Flask, render_template
 app = Flask(__name__)
+
+Items = []
+
 @app.route("/")
 def startSite():
   return render_template('home.html')
