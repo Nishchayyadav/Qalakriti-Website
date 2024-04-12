@@ -1,7 +1,7 @@
 # Qalakriti-Website
 Qalakriti Website for DBMS Project
 
-#Nischay : users
+#Nishchay : users
 
 #Siddhant : craftsman 
 ```
