@@ -8,11 +8,10 @@ Qalakriti Website for DBMS Project
 templates/
 ├── base.html
 ├── user/
-│   ├── home.html
+│   ├── home.html(shop included)
 │   ├── login.html
 │   ├── register.html
-│   ├── cart.html
-│   └── order.html
+│   └── cart.html
 └── craftsman/
     ├── dashboard.html
     ├── login.html
